@@ -1,0 +1,76 @@
+{
+    "now": 1655554276,
+    "now_dt": "2022-06-18T12:11:16.887680Z",
+    "info": {
+        "url": "https://yandex.ru/pogoda/98607?lat=55.163333&lon=38.376865",
+        "lat": 55.163333,
+        "lon": 38.376865
+    },
+    "fact": {
+        "obs_time": 1655553600,
+        "temp": 22,
+        "feels_like": 20,
+        "icon": "bkn_d",
+        "condition": "cloudy",
+        "wind_speed": 3.1,
+        "wind_dir": "nw",
+        "pressure_mm": 743,
+        "pressure_pa": 990,
+        "humidity": 43,
+        "daytime": "d",
+        "polar": false,
+        "season": "summer",
+        "wind_gust": 8.7
+    },
+    "forecast": {
+        "date": "2022-06-18",
+        "date_ts": 1655499600,
+        "week": 24,
+        "sunrise": "03:45",
+        "sunset": "21:09",
+        "moon_code": 2,
+        "moon_text": "moon-code-2",
+        "parts": [
+            {
+                "part_name": "evening",
+                "temp_min": 15,
+                "temp_avg": 18,
+                "temp_max": 22,
+                "wind_speed": 2.6,
+                "wind_gust": 6.8,
+                "wind_dir": "nw",
+                "pressure_mm": 743,
+                "pressure_pa": 990,
+                "humidity": 54,
+                "prec_mm": 0,
+                "prec_prob": 0,
+                "prec_period": 360,
+                "icon": "skc_d",
+                "condition": "partly-cloudy",
+                "feels_like": 16,
+                "daytime": "d",
+                "polar": false
+            },
+            {
+                "part_name": "night",
+                "temp_min": 12,
+                "temp_avg": 13,
+                "temp_max": 14,
+                "wind_speed": 1.8,
+                "wind_gust": 2.3,
+                "wind_dir": "s",
+                "pressure_mm": 744,
+                "pressure_pa": 991,
+                "humidity": 79,
+                "prec_mm": 0,
+                "prec_prob": 0,
+                "prec_period": 360,
+                "icon": "skc_n",
+                "condition": "partly-cloudy",
+                "feels_like": 12,
+                "daytime": "n",
+                "polar": false
+            }
+        ]
+    }
+}
